@@ -30,7 +30,7 @@ print
 # print "You Tube : https://www.youtube.com/c/HA-MRX"
 # print "github   : https://github.com/Ha3MrX"
 # print "Facebook : https://www.facebook.com/muhamad.jabar222"
-pritn INTRO
+print INTRO
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
